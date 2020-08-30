@@ -20,7 +20,7 @@ Passo 6: No seu navegador digite: http://localhost:8080/ e ele irá abrir a pág
 
 <h2> Lista Telefonica - Cadastrar </h2>
 
-![listaTelefonica](https://github.com/giocarvalho07/ListaTelefonica_Java/commit/1c98f02e785f4ccf99bb63457a25756bc1b2154e)
+![listaTelefonica](https://github.com/giocarvalho07/ListaTelefonica_Java/blob/master/listaTelefonica2.png)
 
 <h2> Lista Telefonica - Listar </h2>
 
