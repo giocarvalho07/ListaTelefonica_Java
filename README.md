@@ -14,4 +14,4 @@ Passo 5: No projeto, busque por: Run as -> Spring Boot App, por ser uma aplicaç
 Passo 6: No seu navegador digite: http://localhost:8080/ e ele irá abrir a página raiz/inicial do projeto.
 
 
-<img src="..\Downloads\listaTelefonica.png" >
+![listaTelefonica](https://user-images.githubusercontent.com/52415453/91648402-86946c00-ea3d-11ea-9bac-1474415ccb85.png
