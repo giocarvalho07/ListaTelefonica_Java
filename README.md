@@ -24,6 +24,6 @@ Passo 6: No seu navegador digite: http://localhost:8080/ e ele irá abrir a pág
 
 <h2> Lista Telefonica - Listar </h2>
 
-![listaTelefonica](https://github.com/giocarvalho07/ListaTelefonica_Java/blob/master/listaTelefonica.png)
+![listaTelefonica](https://github.com/giocarvalho07/ListaTelefonica_Java/blob/master/listaTelefonica3.png)
 
 
